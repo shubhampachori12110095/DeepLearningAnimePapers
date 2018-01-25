@@ -55,7 +55,8 @@ Contributions welcome!
 - Real-Time User-Guided Image Colorization with Learned Deep Priors [[arXiv]](https://arxiv.org/abs/1705.02999) (May 8 2017)
 
 ## Image Generation
-- Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) (October 27 2017)
+- StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1710.10916) (October 19 2017) [[original pytorch implementation]](https://github.com/hanzhanggit/StackGAN-v2)
+- Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) (October 27 2017) [[original theano/lasagne implementation]](https://github.com/tkarras/progressive_growing_of_gans)
 
 ## Image Inpainting
 - Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539) (July 26 2016)
