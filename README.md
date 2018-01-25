@@ -30,10 +30,9 @@ Contributions welcome!
 
 ## Anime Generation
 - Towards the Automatic Anime Characters Creation with Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1708.05509) (August 18 2017)
-- MangaGAN [[link]](https://towardsdatascience.com/mangagan-8362f06b9625) (December 11 2017)
 
 ## Anime Inpainting
-- Nothing so far
+- Joint Gap Detection and Inpainting of Line Drawings [[link]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sasaki_Joint_Gap_Detection_CVPR_2017_paper.pdf) (2017)
 
 ## Anime Datasets
 - Manga109 Dataset and Creation of Metadata [[ACM]](https://dl.acm.org/citation.cfm?doid=3011549.3011551) (December 4 2016)
