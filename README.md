@@ -12,6 +12,7 @@ Contributions welcome!
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Simplification](#anime-sketch-simplifcation)
   - [Anime Misc](#anime-misc)
+  - [Anime Non-Deep Learning](@anime-non-deep-learning)
 - [General Papers](#general-papers)
   - [Image Colorization](#image-colorization)
   - [Image Generation](#image-generation)
@@ -44,10 +45,12 @@ Contributions welcome!
 - Sketch Simplification by Classifying Strokes [[IEEE]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7899777) (December 4 2016)
 
 ## Anime Misc
+- Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
+
+## Anime Non-Deep Learning
 - DrawFromDrawings: 2D Drawing Assistance via Stroke Interpolation with a Sketch Database [[PubMed]](https://www.ncbi.nlm.nih.gov/pubmed/27101610) (2016)
 - Sketch-based Manga Retrieval using Manga109 Dataset [[SpringerLink]](https://link.springer.com/article/10.1007%2Fs11042-016-4020-z) (November 9 2016)
 - Interactive Region Segmentation for Manga [[IEEE]](http://ieeexplore.ieee.org/document/7899993/) (December 4 2016)
-- Deep Extraction of Manga Structural Lines [[ACM]](https://dl.acm.org/citation.cfm?id=3073675) (July 2017)
 
 # General Papers
 ## Image Colorization
