@@ -68,5 +68,5 @@ Globally and Locally Consistent Image Completion [[link]](http://hi.cs.waseda.ac
 Image Inpainting using Multi-Scale Feature Image Translation [[arXiv]](https://arxiv.org/abs/1711.08590) (November 23 2017) |
 Context-Aware Semantic Inpainting [[arXiv]](https://arxiv.org/abs/1712.07778) (December 21 2017) |
 Light-weight pixel context encoders for image inpainting [[arXiv]](https://arxiv.org/abs/1801.05585) (January 17 2018)
-High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1801.07632v1) | January 23 2018 | <ul><li>Stable training.</li></ul> | <ul><li>Fails to learn low level skin features.</li><li>Long training time.</li></ul> | 1024 x 1024 x 3 | Yes | Soon
+High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1801.07632v1) (January 23 2018) | <ul><li>Stable training.</li></ul> | <ul><li>Fails to learn low level skin features.</li><li>Long training time.</li></ul> | 1024 x 1024 x 3 | Yes | Soon
 Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018) |
