@@ -62,6 +62,7 @@ Contributions welcome!
 
 ## Image Inpainting
 Title | Link | Date | Notes
+--- | --- | --- | ---
 Semantic Image Inpainting with Deep Generative Models | [[arXiv]](https://arxiv.org/abs/1607.07539) | July 26 2016 |
 Globally and Locally Consistent Image Completion | [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) | 2017 |
 Image Inpainting using Multi-Scale Feature Image Translation | [[arXiv]](https://arxiv.org/abs/1711.08590) | November 23 2017 |
