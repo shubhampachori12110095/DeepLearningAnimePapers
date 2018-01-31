@@ -1,5 +1,5 @@
 # DeepLearningAnimePapers
-A list of papers and other resources on deep learning with anime style images.
+A list of papers and other resources on computer vision and deep learning with anime style images.
 Contributions welcome!
 
 ## Contents
@@ -65,3 +65,5 @@ Contributions welcome!
 - Globally and Locally Consistent Image Completion [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) (2017)
 - Image Inpainting using Multi-Scale Feature Image Translation [[arXiv]](https://arxiv.org/abs/1711.08590) (November 23 2017)
 - Context-Aware Semantic Inpainting [[arXiv]](https://arxiv.org/abs/1712.07778) (December 21 2017)
+- Light-weight pixel context encoders for image inpainting [[arXiv]](https://arxiv.org/abs/1801.05585) (January 17 2018)
+- Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018)
