@@ -62,7 +62,7 @@ Contributions welcome!
 
 ## Image Inpainting
 Title | Link | Date | Contributions | Flaws | Maximum Input Size | Arbitary Region Inpainting? | Code?
---- | --- | --- | --- | --- | --- | --- | --- | ---
+--- | --- | --- | --- | --- | --- | --- | ---
 Semantic Image Inpainting with Deep Generative Models | [[arXiv]](https://arxiv.org/abs/1607.07539) | July 26 2016 |
 Globally and Locally Consistent Image Completion | [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) | 2017 | <ul><li>Dilated convolutions</li><li>2 discriminators: one local discriminator for the completed region and one global discriminator for whole image</li></ul> | <ul><li>Long training time.</li><li>Poisson blending needed</li><li>Complex training process. Completion network is trained, then the completion network is fixed and discriminators are trained, then finally both are trained.</li></ul> | 256 x 256 x 3 | Yes | Soon
 Image Inpainting using Multi-Scale Feature Image Translation | [[arXiv]](https://arxiv.org/abs/1711.08590) | November 23 2017 |
