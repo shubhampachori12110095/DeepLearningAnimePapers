@@ -61,10 +61,10 @@ Contributions welcome!
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) (October 27 2017) [[original theano/lasagne implementation]](https://github.com/tkarras/progressive_growing_of_gans)
 
 ## Image Inpainting
-Title | Link | Date| Contributions | Flaws | Maximum Input Size | Arbitary Region Inpainting?
---- | --- | --- | --- | --- | --- | ---
+Title | Link | Date | Contributions | Flaws | Maximum Input Size | Arbitary Region Inpainting? | Thoughts | Code?
+--- | --- | --- | --- | --- | --- | --- | --- | ---
 Semantic Image Inpainting with Deep Generative Models | [[arXiv]](https://arxiv.org/abs/1607.07539) | July 26 2016 |
-Globally and Locally Consistent Image Completion | [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) | 2017 | <ul><li>Dilated convolutions make each output pixel draw from larger area of input image.</li><li>2 discriminators: one local discriminator for the completed region and one global discriminator for whole image</li></ul> | <ul><li>Massive training time because of large number of parameters.</li><li>Poisson blending needed to remove color discrepencies</li><li>Complex training process. Completion network is trained, then the completion network is fixed and discriminators are trained, then finally both are trained.</li></ul> | 256 x 256 x 3 | Yes
+Globally and Locally Consistent Image Completion | [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) | 2017 | <ul><li>Dilated convolutions make each output pixel draw from larger area of input image.</li><li>2 discriminators: one local discriminator for the completed region and one global discriminator for whole image</li></ul> | <ul><li>Massive training time because of large number of parameters.</li><li>Poisson blending needed to remove color discrepencies</li><li>Complex training process. Completion network is trained, then the completion network is fixed and discriminators are trained, then finally both are trained.</li></ul> | 256 x 256 x 3 |  | Soon
 Image Inpainting using Multi-Scale Feature Image Translation | [[arXiv]](https://arxiv.org/abs/1711.08590) | November 23 2017 |
 Context-Aware Semantic Inpainting | [[arXiv]](https://arxiv.org/abs/1712.07778) | December 21 2017 |
 Light-weight pixel context encoders for image inpainting | [[arXiv]](https://arxiv.org/abs/1801.05585) | January 17 2018 |
