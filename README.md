@@ -12,7 +12,7 @@ Contributions welcome!
   - [Anime Pose Estimation](#anime-pose-estimation)
   - [Anime Sketch Simplification](#anime-sketch-simplifcation)
   - [Anime Misc](#anime-misc)
-  - [Anime Non-Deep Learning](@anime-non-deep-learning)
+  - [Anime Non-Deep Learning](#anime-non-deep-learning)
 - [General Papers](#general-papers)
   - [Image Colorization](#image-colorization)
   - [Image Generation](#image-generation)
@@ -61,10 +61,10 @@ Contributions welcome!
 - Progressive Growing of GANs for Improved Quality, Stability, and Variation [[arXiv]](https://arxiv.org/abs/1710.10196) (October 27 2017) [[original theano/lasagne implementation]](https://github.com/tkarras/progressive_growing_of_gans)
 
 ## Image Inpainting
-Title | Contributions | Flaws | Maximum Input Size | Code?
+Title | Contributions | Shortcomings | Maximum Input Size | Code?
 --- | --- | --- | --- | ---
-Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539) (July 26 2016) |
-Globally and Locally Consistent Image Completion [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) (2017) | <ul><li>Dilated convolutions</li><li>2 discriminators: one local discriminator for the completed region and one global discriminator for whole image</li></ul> | <ul><li>Long training time.</li><li>Poisson blending needed</li><li>Complex training process. Completion network is trained, then the completion network is fixed and discriminators are trained, then finally both are trained.</li></ul> | 256 x 256 x 3 | Soon
+Semantic Image Inpainting with Deep Generative Models [[arXiv]](https://arxiv.org/abs/1607.07539) (July 26 2016) | <ul><li>Missing content infered by searching for closest encoding of the corrupted image in the latent image manifold.</li></ul> | <ul><li>No end to end training.</li><li>IMHO, generating images is harder than inpainting images because with inpainting, there is always ground truth present. So solving inpainting by converting it to the harder problem of generating images is not the way to go.</li></ul>
+Globally and Locally Consistent Image Completion [[link]](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/) (2017) | <ul><li>Dilated convolutions</li><li>2 discriminators: one local discriminator for the completed region and one global discriminator for whole image</li></ul> | <ul><li>Long training time.</li><li>Poisson blending needed.</li><li>Complex training process. Completion network is trained, then the completion network is fixed and discriminators are trained, then finally both are trained.</li></ul> | 256 x 256 x 3 | Soon
 Image Inpainting using Multi-Scale Feature Image Translation [[arXiv]](https://arxiv.org/abs/1711.08590) (November 23 2017) |
 Context-Aware Semantic Inpainting [[arXiv]](https://arxiv.org/abs/1712.07778) (December 21 2017) |
 Light-weight pixel context encoders for image inpainting [[arXiv]](https://arxiv.org/abs/1801.05585) (January 17 2018)
