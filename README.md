@@ -73,5 +73,5 @@ Light-weight pixel context encoders for image inpainting [[arXiv]](https://arxiv
 High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks [[arXiv]](https://arxiv.org/abs/1801.07632v1) (January 23 2018) | <ul><li>Conditioned on facial attributes.</li><li>Progressive growing of GANs.</li><li>Three new losses: attribute, feature, and boundary.</li></ul> | <ul><li>Fails to learn low level skin features.</li><li>Long training time.</li></ul> | 1024 x 1024 x 3 | Soon
 Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018) |
 
-#Other Repositories
+# Other Repositories
 - [[3D Machine Learning]](https://github.com/timzhang642/3D-Machine-Learning)
