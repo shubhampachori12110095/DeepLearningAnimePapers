@@ -74,4 +74,4 @@ High Resolution Face Completion with Multiple Controllable Attributes via Fully 
 Deep Structured Energy-Based Image Inpainting [[arXiv]](https://arxiv.org/abs/1801.07939) (January 24 2018) |
 
 # Other Repositories
-- [[3D Machine Learning]](https://github.com/timzhang642/3D-Machine-Learning)
+- [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
